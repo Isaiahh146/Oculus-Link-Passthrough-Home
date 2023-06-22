@@ -1,4 +1,4 @@
-DISCLAIMER
+# DISCLAIMER:
 The program can no longer auto start since it relied on replacing Oculus Home, which well, no longer exists
 
 # Oculus-Link-Passthrough-Home
