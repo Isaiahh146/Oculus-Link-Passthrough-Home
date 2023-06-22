@@ -1,5 +1,5 @@
 # DISCLAIMER:
-The program can no longer auto start since it relied on replacing Oculus Home, which well, no longer exists
+The program can no longer auto start since it relied on replacing Oculus Home, which well, no longer exists. So while the program can still be launched manually, it will no longer auto-launch and there are no plans to restore that functionality in the future.
 
 # Oculus-Link-Passthrough-Home
 Replaces Oculus Home with a passthrough version that lets you see the real world using Oculus' passthrough API over Link
